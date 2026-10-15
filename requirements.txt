@@ -1,0 +1,4 @@
+kurigram
+tgcrypto
+pyTelegramBotAPI
+requests
